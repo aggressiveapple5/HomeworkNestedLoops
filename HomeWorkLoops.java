@@ -5,7 +5,7 @@
 * @version 1.0
 */
 
-public class HomeworkLoops
+public class HomeWorkLoops
 {
 	public static void main(String[] args)
 	{
